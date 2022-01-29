@@ -1,16 +1,66 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "projects":[
+     {
+        "id":1,
+        "title":"RELOCCATTE",
+        "description":"A website that provides beautifully furnished and managed",
+        "moreDescription":"A website that provides beautifully furnished and managed",
+        "team":"Kinnari",
+        "tools":"Adobe Xd",
+        "duration":"4 weeks",
+        "tags":[
+           "Branding",
+           "UX Writing",
+           "Service Design"
+        ],
+        "projectUrl":"https://www.google.com"
+     },
+     {
+        "id":2,
+        "title":"KURASHI",
+        "description":"A website that provides beautifully furnished and managed",
+        "moreDescription":"A website that provides beautifully furnished and managed",
+        "team":"Kinnari",
+        "tools":"Adobe Xd",
+        "duration":"4 weeks",
+        "tags":[
+           "Branding",
+           "UX Writing",
+           "Branding",
+           "Service Design"
+        ],
+        "projectUrl":"https://www.google.com"
+     },
+     {
+        "id":3,
+        "title":"RELOCCATTE",
+        "description":"A website that provides beautifully furnished and managed",
+        "moreDescription":"A website that provides beautifully furnished and managed",
+        "team":"Kinnari",
+        "tools":"Adobe Xd",
+        "duration":"4 weeks",
+        "tags":[
+           "Branding",
+           "UX Writing",
+           "Service Design"
+        ],
+        "projectUrl":"https://www.google.com"
+     },
+     {
+        "id":4,
+        "title":"KURASHI",
+        "description":"A website that provides beautifully furnished and managed",
+        "moreDescription":"A website that provides beautifully furnished and managed",
+        "team":"Kinnari",
+        "tools":"Adobe Xd",
+        "duration":"4 weeks",
+        "tags":[
+           "Branding",
+           "UX Writing",
+           "Service Design",
+           "Branding"
+        ],
+        "projectUrl":"https://www.google.com"
+     }
   ]
 }
